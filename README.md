@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/journey-ad/journey-ad/blob/master/crino.gif" width="100"> -->
+<img src="https://github.com/xuya227939/xuya227939/blob/master/mario.gif" width="100">
 
 ### Hi there 👋
 
