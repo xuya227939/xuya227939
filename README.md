@@ -2,10 +2,6 @@
 
 ### Hi there 👋
 
-#### Contact Me
-
-<img src="https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/wechat.jpeg?Expires=1681041596&OSSAccessKeyId=TMP.3KgnjbH2kYrsje5Y463Cb4v5SFCk8zh557S16vaYUx4Wdeff6rmC5VtuuvKLZKXdePfxNQdXLdeiGbRRrArN5Npp4avhxD&Signature=FWTtfztAvH%2F7WLXyKhSjN2mmbCE%3D" width="400">
-
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
@@ -29,3 +25,7 @@
 #### Blog
 
 [Blog](https://blog.downfuture.com)
+
+#### Contact Me
+
+<img src="https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/wechat.jpeg?Expires=1681041596&OSSAccessKeyId=TMP.3KgnjbH2kYrsje5Y463Cb4v5SFCk8zh557S16vaYUx4Wdeff6rmC5VtuuvKLZKXdePfxNQdXLdeiGbRRrArN5Npp4avhxD&Signature=FWTtfztAvH%2F7WLXyKhSjN2mmbCE%3D" width="400">
