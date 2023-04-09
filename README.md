@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+#### Contact Me
+
+[![](https://img.downfuture.com/images/wechat.jpeg?Expires=1681041596&OSSAccessKeyId=TMP.3KgnjbH2kYrsje5Y463Cb4v5SFCk8zh557S16vaYUx4Wdeff6rmC5VtuuvKLZKXdePfxNQdXLdeiGbRRrArN5Npp4avhxD&Signature=FWTtfztAvH%2F7WLXyKhSjN2mmbCE%3D)
+
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
