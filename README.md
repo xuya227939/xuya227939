@@ -4,23 +4,19 @@
 
 I build **AI production systems** — practical software that solves a concrete workflow problem, not another general-purpose chatbot.
 
-Currently building [**NeonBit**](https://neonbit.ai) and its products. Previously spent years on front-end infrastructure and UI tooling.
+Founder of [**NeonBit**](https://neonbit.ai) · 杭州映构智能科技有限公司. Previously spent years on front-end infrastructure and UI tooling.
 
-🌐 [jchencode.com](https://jchencode.com/) · 🏢 [neonbit.ai](https://neonbit.ai)
+🌐 [jchencode.com](https://jchencode.com/) · 📝 [blog.downfuture.com](https://blog.downfuture.com) · 🏢 [neonbit.ai](https://neonbit.ai)
 
 ---
 
-### 🏢 NeonBit
+## 🏢 [NeonBit](https://neonbit.ai) · 杭州映构智能科技有限公司
 
 > AI production systems for ecommerce, content teams, and product builders.
 
-One brand layer, independent products. [neonbit.ai](https://neonbit.ai)
+One brand layer, independent products — each one solving a real workflow, end to end.
 
----
-
-### 🚀 Products
-
-#### [SnapVee](https://snapvee.com) — the content studio for creators
+### [SnapVee](https://snapvee.com) — the content studio for creators
 
 > Download any video for free — turn it into text, subtitles and summaries.
 
@@ -31,7 +27,7 @@ One brand layer, independent products. [neonbit.ai](https://neonbit.ai)
 - 🎨 **Generate** — AI covers and visual assets
 - 📤 **Publish** — write once, auto-format for WeChat / X / LinkedIn
 
-#### [Meshivo 3D](https://meshivo.com) — text to a part you can actually hold
+### [Meshivo 3D](https://meshivo.com) — text to a part you can actually hold
 
 > Say it in one sentence, get something that actually works.
 
@@ -40,13 +36,13 @@ One brand layer, independent products. [neonbit.ai](https://neonbit.ai)
 - 💰 Pricing from real material + machine time
 - 📦 Printed and shipped in **72h** (mainland China), files elsewhere
 
-#### Social Media API — a unified layer
+### Social Media API — a unified layer
 
 Data collection and automation across social platforms, powering the products above.
 
 ---
 
-### 🛠 Stack
+## 🛠 Stack
 
 **Front-end**
 
@@ -77,14 +73,15 @@ Data collection and automation across social platforms, powering the products ab
 
 ---
 
-### 📦 Open Source
+## 📦 Open Source
 
 - [**corki-ui**](https://corki-ui.com) — a UI component library, built for fun and for learning
 - [**order**](https://order.downfuture.com/#/dashboard) — React + MobX project template
+- [**full-stack**](https://github.com/xuya227939/full-stack) — full-stack Next.js 16 + React 19 template
 
 ---
 
-### 📈 Stats
+## 📈 Stats
 
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=xuya227939&show_icons=true&hide_border=true&count_private=true" />
@@ -93,7 +90,7 @@ Data collection and automation across social platforms, powering the products ab
 
 ---
 
-### 📮 Contact
+## 📮 Contact
 
 Open to collaboration on AI products, media pipelines and 3D manufacturing.
 
