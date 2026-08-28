@@ -81,15 +81,6 @@ Data collection and automation across social platforms, powering the products ab
 
 ---
 
-## 📈 Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xuya227939&show_icons=true&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuya227939&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 📮 Contact
 
 Open to collaboration on AI products, media pipelines and 3D manufacturing.
