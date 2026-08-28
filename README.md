@@ -100,4 +100,4 @@ Open to collaboration on AI products, media pipelines and 3D manufacturing.
 - 🌐 [jchencode.com](https://jchencode.com/)
 - 🏢 [neonbit.ai](https://neonbit.ai)
 
-<img src="https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/wechat.jpeg" width="300">
+<img src="https://oss.api-service.net.cn/JChenCode/wechat.jpg" width="300">
