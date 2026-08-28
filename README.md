@@ -60,6 +60,17 @@ Data collection and automation across social platforms, powering the products ab
 
 ## 🛠 Stack
 
+**AI & Agents**
+
+[![](https://img.shields.io/badge/-AI%20Agent-6e56cf?style=flat-square&logo=probot&logoColor=ffffff)](https://github.com/xuya227939)
+[![](https://img.shields.io/badge/-FDE-111111?style=flat-square&logo=rocket&logoColor=ffffff)](https://github.com/xuya227939)
+[![](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=ffffff)](https://modelcontextprotocol.io/)
+[![](https://img.shields.io/badge/-RAG-4b5563?style=flat-square&logo=databricks&logoColor=ffffff)](https://github.com/xuya227939)
+[![](https://img.shields.io/badge/-Claude-d97757?style=flat-square&logo=claude&logoColor=ffffff)](https://claude.com/)
+[![](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logoColor=ffffff)](https://openai.com/)
+[![](https://img.shields.io/badge/-DeepSeek-4d6bfe?style=flat-square&logo=deepseek&logoColor=ffffff)](https://www.deepseek.com/)
+[![](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=ffffff)](https://elevenlabs.io/)
+
 **Front-end**
 
 [![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
