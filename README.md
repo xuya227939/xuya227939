@@ -6,7 +6,7 @@ I build **AI production systems** — practical software that solves a concrete 
 
 Founder of [**NeonBit**](https://neonbit.ai) · 杭州映构智能科技有限公司. Previously spent years on front-end infrastructure and UI tooling.
 
-🌐 [jchencode.com](https://jchencode.com/) · 📝 [blog.downfuture.com](https://blog.downfuture.com) · 🏢 [neonbit.ai](https://neonbit.ai)
+🌐 [jchencode.com](https://jchencode.com/) · 🏢 [neonbit.ai](https://neonbit.ai)
 
 ---
 
