@@ -6,7 +6,7 @@ I build **AI production systems** — practical software that solves a concrete 
 
 Founder of [**NeonBit**](https://neonbit.ai) · 杭州映构智能科技有限公司. Previously spent years on front-end infrastructure and UI tooling.
 
-🌐 [jchencode.com](https://jchencode.com/) · 🏢 [neonbit.ai](https://neonbit.ai)
+🌐 [jchencode.com](https://jchencode.com/) · 🐦 [@hezhiqianye](https://x.com/hezhiqianye) · 🎓 [course.jchencode.com](https://course.jchencode.com/) · 🏢 [neonbit.ai](https://neonbit.ai)
 
 ---
 
@@ -39,6 +39,22 @@ One brand layer, independent products — each one solving a real workflow, end 
 ### Social Media API — a unified layer
 
 Data collection and automation across social platforms, powering the products above.
+
+---
+
+## 🎓 [出海挣美金](https://course.jchencode.com/) — 从零打造被动收入英文网站
+
+> 不是一门课，而是一套可复制、能落地的副业系统。
+
+我把自己做英文站踩过的坑和真正有效的方法整理成了一套课程 —— 从选赛道到建站、SEO、变现，7 个阶段全打通。
+
+- 🧭 **选方向** — 找词 + 找赛道 + 找竞争对手
+- 🏗 **搭网站** — 小白路线（无需代码）+ 工程师路线，双轨并行
+- 🔍 **做流量** — 可复制的 Google SEO 方法
+- 💵 **做变现** — 广告 + 订阅 + 内容付费
+- 🤖 **AI 提效** — 自动化批量生产高质量英文内容
+
+20+ 小时视频 · 终身访问 · 持续更新 → [course.jchencode.com](https://course.jchencode.com/)
 
 ---
 
@@ -86,6 +102,8 @@ Data collection and automation across social platforms, powering the products ab
 Open to collaboration on AI products, media pipelines and 3D manufacturing.
 
 - 🌐 [jchencode.com](https://jchencode.com/)
+- 🐦 [x.com/hezhiqianye](https://x.com/hezhiqianye)
+- 🎓 [course.jchencode.com](https://course.jchencode.com/)
 - 🏢 [neonbit.ai](https://neonbit.ai)
 
 <img src="https://oss.api-service.net.cn/JChenCode/wechat.jpg" width="300">
