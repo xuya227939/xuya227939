@@ -2,30 +2,102 @@
 
 ### Hi there 👋
 
-#### Platform&Tools
+I build **AI production systems** — practical software that solves a concrete workflow problem, not another general-purpose chatbot.
 
-[![](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-[![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/linux-292e33?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+Currently building [**NeonBit**](https://neonbit.ai) and its products. Previously spent years on front-end infrastructure and UI tooling.
 
+🌐 [jchencode.com](https://jchencode.com/) · 🏢 [neonbit.ai](https://neonbit.ai)
 
+---
+
+### 🏢 NeonBit
+
+> AI production systems for ecommerce, content teams, and product builders.
+
+One brand layer, independent products. [neonbit.ai](https://neonbit.ai)
+
+---
+
+### 🚀 Products
+
+#### [SnapVee](https://snapvee.com) — the content studio for creators
+
+> Download any video for free — turn it into text, subtitles and summaries.
+
+- 🎬 **Download** — YouTube / TikTok / Instagram / X, HD, no watermark
+- 📝 **Transcribe** — editable subtitles & transcripts, bilingual output
+- 🧠 **Summarize** — structured notes, chapters, key takeaways
+- 💬 **Analyze** — comment sentiment, selling points, risk signals
+- 🎨 **Generate** — AI covers and visual assets
+- 📤 **Publish** — write once, auto-format for WeChat / X / LinkedIn
+
+#### [Meshivo 3D](https://meshivo.com) — text to a part you can actually hold
+
+> Say it in one sentence, get something that actually works.
+
+- 🧩 Natural language → **parametric CAD code** (not a blobby mesh)
+- ✅ Automatic **manufacturability validation**
+- 💰 Pricing from real material + machine time
+- 📦 Printed and shipped in **72h** (mainland China), files elsewhere
+
+#### Social Media API — a unified layer
+
+Data collection and automation across social platforms, powering the products above.
+
+---
+
+### 🛠 Stack
+
+**Front-end**
+
+[![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=000000)](https://react.dev/)
+[![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Taro-61dafb?style=flat-square&logo=taro&logoColor=ffffff)](https://taro.aotu.io/)
+[![](https://img.shields.io/badge/-Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
+[![](https://img.shields.io/badge/-Taro-61dafb?style=flat-square&logo=taro&logoColor=000000)](https://taro.jd.com/)
+
+**Back-end & infra**
+
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=ffffff)](https://bun.sh/)
+[![](https://img.shields.io/badge/-PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+[![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io/)
+[![](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=ffffff)](https://www.cloudflare.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=ffffff)](https://ffmpeg.org/)
 
-#### Works
+**Platform**
 
-[A UI corki-ui Language and Entertain yourself and Imitation ant-design](https://corki-ui.com)
+[![](https://img.shields.io/badge/macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
+[![](https://img.shields.io/badge/Windows-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows)
+[![](https://img.shields.io/badge/Linux-292e33?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
+[![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[React and mobx based, project template.](https://order.downfuture.com/#/dashboard)
+---
 
-#### Blog
+### 📦 Open Source
 
-[Blog](https://blog.downfuture.com)
+- [**corki-ui**](https://corki-ui.com) — a UI component library, built for fun and for learning
+- [**order**](https://order.downfuture.com/#/dashboard) — React + MobX project template
 
-#### Contact Me
+---
 
-<img src="https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/wechat.jpeg" width="400">
+### 📈 Stats
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xuya227939&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuya227939&layout=compact&hide_border=true" />
+</p>
+
+---
+
+### 📮 Contact
+
+Open to collaboration on AI products, media pipelines and 3D manufacturing.
+
+- 🌐 [jchencode.com](https://jchencode.com/)
+- 🏢 [neonbit.ai](https://neonbit.ai)
+
+<img src="https://sight-world.oss-cn-hangzhou.aliyuncs.com/images/wechat.jpeg" width="300">
