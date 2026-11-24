@@ -4,13 +4,13 @@
 
 I build **AI production systems** — practical software that solves a concrete workflow problem, not another general-purpose chatbot.
 
-Founder of [**NeonBit**](https://neonbit.ai) · 杭州映构智能科技有限公司. Previously spent years on front-end infrastructure and UI tooling.
+Founder of [**映构智能**](https://neonbit.ai) · 杭州映构智能科技有限公司. Previously spent years on front-end infrastructure and UI tooling.
 
-🌐 [jchencode.com](https://jchencode.com/) · 🐦 [@hezhiqianye](https://x.com/hezhiqianye) · 🎓 [course.jchencode.com](https://course.jchencode.com/) · 🏢 [neonbit.ai](https://neonbit.ai)
+🌐 [jchencode.com](https://jchencode.com/) · 🐦 [@hezhiqianye](https://x.com/hezhiqianye) · 🎓 [course.jchencode.com](https://course.jchencode.com/) · 🏢 [映构智能](https://neonbit.ai)
 
 ---
 
-## 🏢 [NeonBit](https://neonbit.ai) · 杭州映构智能科技有限公司
+## 🏢 [映构智能](https://neonbit.ai) · 杭州映构智能科技有限公司
 
 > AI production systems for ecommerce, content teams, and product builders.
 
@@ -27,14 +27,22 @@ One brand layer, independent products — each one solving a real workflow, end 
 - 🎨 **Generate** — AI covers and visual assets
 - 📤 **Publish** — write once, auto-format for WeChat / X / LinkedIn
 
-### [Meshivo 3D](https://meshivo.com) — text to a part you can actually hold
+### [WearStage](https://wearstage.com/) — an AI visual studio for fashion ecommerce
 
-> Say it in one sentence, get something that actually works.
+> Turn clothing photos into on-model images, product shots, and short videos.
 
-- 🧩 Natural language → **parametric CAD code** (not a blobby mesh)
-- ✅ Automatic **manufacturability validation**
-- 💰 Pricing from real material + machine time
-- 📦 Printed and shipped in **72h** (mainland China), files elsewhere
+- 👗 **Virtual try-on** — put garments and accessories on AI models
+- 📸 **Product photography** — create hero shots and white-background images
+- 🔄 **Multi-angle views** — show the same outfit from the front, sides, and back
+- 🎬 **Motion** — create short fashion videos and looping model GIFs
+
+### [MurVoice](https://murvoice.com/) — voice recording for iPhone and Apple Watch
+
+> Record on your iPhone or Apple Watch, then use AI to turn recordings into transcripts, summaries, and mind maps.
+
+- 🎙️ **Record** — capture voice notes and meetings on iPhone or Apple Watch
+- 📝 **Transcribe** — turn spoken audio into text
+- 🧠 **Summarize** — generate meeting summaries and mind maps
 
 ### Social Media API — a unified layer
 
@@ -42,19 +50,17 @@ Data collection and automation across social platforms, powering the products ab
 
 ---
 
-## 🎓 [出海挣美金](https://course.jchencode.com/) — 从零打造被动收入英文网站
+## 🎓 [造站计划](https://course.jchencode.com/) — 从第一个网站到生产级系统
 
-> 不是一门课，而是一套可复制、能落地的副业系统。
+> 按你的基础和目标，选择小白、工程师或架构师路线。
 
-我把自己做英文站踩过的坑和真正有效的方法整理成了一套课程 —— 从选赛道到建站、SEO、变现，7 个阶段全打通。
+三条路线共同学习出海选题、SEO 和商业变现，在搭建与部署阶段按技术基础分流。
 
-- 🧭 **选方向** — 找词 + 找赛道 + 找竞争对手
-- 🏗 **搭网站** — 小白路线（无需代码）+ 工程师路线，双轨并行
-- 🔍 **做流量** — 可复制的 Google SEO 方法
-- 💵 **做变现** — 广告 + 订阅 + 内容付费
-- 🤖 **AI 提效** — 自动化批量生产高质量英文内容
+- 🏗 **AI 网站创作者**（小白路线）— 用自然语言搭建第一个网站，通过 GitHub 保存代码、Cloudflare 部署上线
+- 💻 **AI 全栈工程师**（工程师路线）— 用 AI 协同开发，做出带数据库、登录权限和后台的全栈产品
+- 🧩 **AI 系统架构师**（架构师路线）— 设计生产级系统，覆盖可靠性、安全、成本和架构演进
 
-20+ 小时视频 · 终身访问 · 持续更新 → [course.jchencode.com](https://course.jchencode.com/)
+选题 · 搭建 · 上线 · 获客 · 变现 → [course.jchencode.com](https://course.jchencode.com/)
 
 ---
 
@@ -115,6 +121,6 @@ Open to collaboration on AI products, media pipelines and 3D manufacturing.
 - 🌐 [jchencode.com](https://jchencode.com/)
 - 🐦 [x.com/hezhiqianye](https://x.com/hezhiqianye)
 - 🎓 [course.jchencode.com](https://course.jchencode.com/)
-- 🏢 [neonbit.ai](https://neonbit.ai)
+- 🏢 [映构智能](https://neonbit.ai)
 
 <img src="https://oss.api-service.net.cn/JChenCode/wechat.jpg" width="300">
